@@ -1,3 +1,7 @@
+
+   Copyright (C) 2021 KAZI SAABIQUE AHMED
+
+
 # Ride-Sharing Uber Lyft Android App
 Learn to build a ride-sharing Android Taxi Clone App like Uber, Lyft - Open-Source Project By MindOrks
 
@@ -246,7 +250,7 @@ A WebSocket is a persistent connection between a client and server. WebSockets p
 
 ### License
 ```
-   Copyright (C) 2020 MINDORKS NEXTGEN PRIVATE LIMITED
+   Copyright (C) 2021 KAZI SAABIQUE AHMED
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
